@@ -83,9 +83,9 @@ Esta separación permite controlar la comunicación entre las capas de la arquit
 
 ## 🎥 Video de demostración
 
-GitHub no reproduce este archivo directamente en la vista previa, pero puedes abrirlo o descargarlo desde aquí:
+En este video se muestra la landing page funcionando y un recorrido por los principales componentes de la arquitectura implementada en AWS.
 
-[▶️ Abrir video de demostración](video/VuelaFeliz-Cloud-AWS-Demo.mp4?raw=true)
+▶️ [Ver demostración completa del proyecto en YouTube](https://youtu.be/3qmkeu7qGfE)
 
 ## 🎯 Objetivo del proyecto
 
