@@ -83,9 +83,9 @@ Esta separación permite controlar la comunicación entre las capas de la arquit
 
 ## 🎥 Video de demostración
 
-Puedes ver la demostración completa del proyecto aquí:
+GitHub no reproduce este archivo directamente en la vista previa, pero puedes abrirlo o descargarlo desde aquí:
 
-[▶️ Ver video de VuelaFeliz Cloud AWS](video/VuelaFeliz-Cloud-AWS-Demo.mp4)
+[▶️ Abrir video de demostración](video/VuelaFeliz-Cloud-AWS-Demo.mp4?raw=true)
 
 ## 🎯 Objetivo del proyecto
 
