@@ -81,6 +81,12 @@ Esta separación permite controlar la comunicación entre las capas de la arquit
 
 ![Target Group](docs/screenshots/10-target-group-healthy.jpeg)
 
+## 🎥 Video de demostración
+
+Puedes ver la demostración completa del proyecto aquí:
+
+[▶️ Ver video de VuelaFeliz Cloud AWS](video/VuelaFeliz-Cloud-AWS-Demo.mp4)
+
 ## 🎯 Objetivo del proyecto
 
 El objetivo fue aplicar de manera práctica conceptos de Cloud Computing mediante la implementación de una arquitectura web funcional en AWS.
